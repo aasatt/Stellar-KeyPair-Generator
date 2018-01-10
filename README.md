@@ -6,7 +6,7 @@ Javascript web application for quickly generating account key pairs for the Stel
 
 I deployed this application publically and you can call it by sending a GET request to:
 
-[https://stellar-horizon-client-gsiylynhie.now.sh/keypair](https://stellar-horizon-client-gsiylynhie.now.sh/keypair)
+[https://stellar-horizon-client-ceugfzhvkm.now.sh/keypair](https://stellar-horizon-client-ceugfzhvkm.now.sh/keypair)
 
 This is on a free server so there may be a delay while it gets warmed up. I also may begin to be rate limited with heavy traffic so donations are welcome 😀
 
