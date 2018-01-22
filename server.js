@@ -11,4 +11,4 @@ var routes = require('./api/routes'); //importing route
 routes(app);
 app.listen(port);
 
-console.log('Stellar Keypair API server started on: ' + port);
+console.log('todo list RESTful API server started on: ' + port);

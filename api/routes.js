@@ -5,5 +5,8 @@ module.exports = function(app) {
   
     app.route('/keypair')
     .get(key.generateKey)  
+
+    app.route('/lookupSecret')
+    .get(key.fromSecret)
   };
   
